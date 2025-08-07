@@ -79,7 +79,7 @@
 ---
 
 ## 📄 My CVs
-[![DevOps CV](https://img.shields.io/badge/DevOps_CV-blue?style=for-the-badge)](https://drive.google.com/file/d/1L2fdu__QwMZRPpQzgHT_NpU4ptl5G17t/view?usp=drive_link)
+[![DevOps CV](https://img.shields.io/badge/DevOps_CV-blue?style=for-the-badge)](https://drive.google.com/file/d/1eFiEvZB4Pg4hFR_LHmdmAbhYDAPFLASL/view?usp=drive_link)
 
 
 ---
